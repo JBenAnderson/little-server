@@ -12,7 +12,7 @@ Installation
 
 Usage
 
-simple project to show a message from express server to your web browser.  
+To initialize and show a message from a simple Express server to your local web browser.  
 
 Roadmap
 
