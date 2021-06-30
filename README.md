@@ -5,7 +5,7 @@ Hello World with Node and Express
 Installation
 
 1.  Create a folder.  
-2.  Initialize the node application with ("node init").  
+2.  Initialize the node application with ("npm init").  
 3.  Next install Express ("npm install express").
 4.  Initialize index.js with ("node index.js").
 5.  Open your browser to: ("http://localhost:4800").
